@@ -1,11 +1,12 @@
 # Welcome to our project
 
 Follow these steps:
-
 1. 
-git clone (https://github.com/Olmosbe/cipher-scribe-online.git
+git clone https://github.com/Olmosbe/cipher-scribe-online.git
+
 2.
 cd cipher-scribe-online
+
 3.
 npm i
 
