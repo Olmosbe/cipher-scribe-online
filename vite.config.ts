@@ -5,6 +5,7 @@ import path from "path";
 // Use a number conversion for process.env.VITE_PORT
 export default defineConfig({
   server: {
+    host: '0.0.0.0', // barcha interfeyslar orqali tinglash
     port: Number(process.env.VITE_PORT) || 3000, // Ensure the port is a number
   },
   plugins: [react()],
